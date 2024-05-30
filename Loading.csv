@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717031911169,13218,HTTP Request,500,Internal Server Error,Phenikaa 1-1,text,false,,8699,246,1,1,https://phenikaa-uni.edu.vn/vi,41,0,30
+1717031911169,45,HTTP Request-0,302,Found,Phenikaa 1-1,text,true,,298,123,1,1,http://phenikaa-uni.edu.vn/vi,41,0,30
+1717031911217,13170,HTTP Request-1,500,Internal Server Error,Phenikaa 1-1,text,false,,8401,123,1,1,https://phenikaa-uni.edu.vn/vi,13170,0,314
+1717031948482,22887,HTTP Request,200,OK,Phenikaa 1-1,text,true,,676013,246,1,1,https://phenikaa-uni.edu.vn/vi,37,0,21
+1717031948482,40,HTTP Request-0,302,Found,Phenikaa 1-1,text,true,,298,123,1,1,http://phenikaa-uni.edu.vn/vi,37,0,21
+1717031948523,22846,HTTP Request-1,200,OK,Phenikaa 1-1,text,true,,675715,123,1,1,https://phenikaa-uni.edu.vn/vi,22789,0,237
+1717031971378,393,Tin tuc,200,OK,Phenikaa 1-1,text,true,,836404,272,1,1,https://phenikaa-uni.edu.vn/vi/page/tin-tuc,24,0,6
+1717031971378,24,Tin tuc-0,302,Found,Phenikaa 1-1,text,true,,324,136,1,1,http://phenikaa-uni.edu.vn/vi/page/tin-tuc,24,0,6
+1717031971403,368,Tin tuc-1,200,OK,Phenikaa 1-1,text,true,,836080,136,1,1,https://phenikaa-uni.edu.vn/vi/page/tin-tuc,270,0,0
+1717031971771,278,Khoa CNTT,200,OK,Phenikaa 1-1,text,true,,769145,294,1,1,https://phenikaa-uni.edu.vn/vi/page/khoa-hoc-cong-nghe,9,0,0
+1717031971771,9,Khoa CNTT-0,302,Found,Phenikaa 1-1,text,true,,346,147,1,1,http://phenikaa-uni.edu.vn/vi/page/khoa-hoc-cong-nghe,9,0,0
+1717031971780,269,Khoa CNTT-1,200,OK,Phenikaa 1-1,text,true,,768799,147,1,1,https://phenikaa-uni.edu.vn/vi/page/khoa-hoc-cong-nghe,224,0,0
+1717031972050,133,Lien he,200,OK,Phenikaa 1-1,text,true,,392516,272,1,1,https://phenikaa-uni.edu.vn/vi/page/lien-he,8,0,0
+1717031972050,8,Lien he-0,302,Found,Phenikaa 1-1,text,true,,324,136,1,1,http://phenikaa-uni.edu.vn/vi/page/lien-he,8,0,0
+1717031972058,125,Lien he-1,200,OK,Phenikaa 1-1,text,true,,392192,136,1,1,https://phenikaa-uni.edu.vn/vi/page/lien-he,103,0,0

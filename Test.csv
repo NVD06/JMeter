@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717033400689,2526,HTTP Request,200,OK,Thread Group 1-1,text,true,,34708,240,1,1,https://openweathermap.org/,782,0,423
+1717033400689,787,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,371,120,1,1,http://openweathermap.org/,782,0,423
+1717033401478,1737,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,34337,120,1,1,https://openweathermap.org/,1488,0,860
+1717033403217,1633,API,200,OK,Thread Group 1-1,text,true,,75286,246,1,1,https://openweathermap.org/api,336,0,0
+1717033403217,336,API-0,301,Moved Permanently,Thread Group 1-1,text,true,,374,123,1,1,http://openweathermap.org/api,336,0,0
+1717033403554,1296,API-1,200,OK,Thread Group 1-1,text,true,,74912,123,1,1,https://openweathermap.org/api,661,0,0
+1717033404851,908,Weathermap,200,OK,Thread Group 1-1,text,true,,11601,260,1,1,https://openweathermap.org/weathermap,339,0,0
+1717033404851,339,Weathermap-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,130,1,1,http://openweathermap.org/weathermap,339,0,0
+1717033405190,569,Weathermap-1,200,OK,Thread Group 1-1,text,true,,11220,130,1,1,https://openweathermap.org/weathermap,569,0,0
